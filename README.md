@@ -1,4 +1,4 @@
-### News Monkey
+### React Current Weather
 
 ### `git clone https://github.com/mdkhaisar/weather-app` - Clone Repository
 
