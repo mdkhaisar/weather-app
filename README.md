@@ -1,4 +1,4 @@
-### React Current Weather
+### React Current Weather App
 
 ### `git clone https://github.com/mdkhaisar/weather-app` - Clone Repository
 
